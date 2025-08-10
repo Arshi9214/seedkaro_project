@@ -1,0 +1,28 @@
+.border-success-subtle{
+    border-color: #6bc449 !important;
+    padding-bottom: 3px !important; 
+}
+.btn-success{
+    background-color: #6bc449 !important;
+    border: none;
+}
+.headinggreentext{
+    color: #6bc449;
+    font-family: "Segoe UI Black";
+}
+.green{
+    color: #6bc449;
+}
+#page2{
+    background-image:url(images/banner-new.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+button:hover {
+    background-color: #88a894 !important;
+    color: #000000 !important;
+    border: solid !important;
+    border-color: #0f7e38 !important;
+}
