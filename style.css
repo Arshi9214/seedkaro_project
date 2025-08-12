@@ -26,6 +26,10 @@
     border: solid !important;
     border-color: #0f7e38 !important;
 } 
+
+.nav-link:hover{
+    color: #6BC449 !important;
+}
 .btn-success{
     background-color: #6BC449!important;
 }
