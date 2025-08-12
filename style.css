@@ -19,14 +19,14 @@
     background-repeat: no-repeat;
     height: 100vh;
 }
-
-button:hover {
+ 
+ button:hover {
     background-color: #88a894 !important;
     color: #000000 !important;
     border: solid !important;
     border-color: #0f7e38 !important;
-}
-button{
+} 
+.btn-success{
     background-color: #6BC449!important;
 }
 .text-success{
