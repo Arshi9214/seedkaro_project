@@ -26,3 +26,20 @@ button:hover {
     border: solid !important;
     border-color: #0f7e38 !important;
 }
+button{
+    background-color: #6BC449!important;
+}
+.text-success{
+color: #6BC449!important;
+}
+.bg-light1
+{
+     background-color: #ffffff!important;
+}
+.bg-dark{
+    background-color: black!important;
+}
+.bg-success {
+      background: linear-gradient(to right, #6BC647 ,#6BCC3F,
+#6AD630)!important;
+}
